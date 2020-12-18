@@ -7,7 +7,3 @@ Script For Find Admin Control Panel
 
 
 # Input URL Without https:// or http://
-
-git clone https://github.com/Epic-R-R/Admin-Panel-Finder-.git
-cd
-
