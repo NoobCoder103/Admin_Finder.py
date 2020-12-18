@@ -2,7 +2,7 @@
 Script For Find Admin Control Panel
 # For use it
 git clone https://github.com/mohamedalthaf101/Admin_Finder.py
-cd Admin-Panel-Finder-
+cd Admin_Finder
 python admin.py
 
 
