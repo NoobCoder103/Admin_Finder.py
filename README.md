@@ -1,9 +1,9 @@
 # Admin_Finder.py
 Script For Find Admin Control Panel
 # For use it
-git clone https://github.com/Epic-R-R/Admin-Panel-Finder-.git
-cd Admin-Panel-Finder-
-perl main.pl
+* git clone https://github.com/mohamedalthaf101/Admin_Finder.py
+* cd Admin_Panel
+* python admin.py
 
 
 # Input URL Without https:// or http://
